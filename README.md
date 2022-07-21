@@ -2,15 +2,8 @@
 
 
 
-<br />
-<div align="center">
-  <a href="#">
-    <img src="https://github.com/azizaykut/instagramclone/blob/main/instagramclone/img/Instagram-clone.gif" alt="Logo">
-  </a>
 
-</div>
-<br/>
-<br/>
+
 <br/>
 
 # Proje Arayüzü
