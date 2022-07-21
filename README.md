@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github.com/azizaykut/instagramclone/blob/main/instagramclone/img/%C4%B1nstass.jpg" alt="ss" >
+    <img src="/img/ınstass.jpg" alt="ss" >
   </a>
 </div>
 
