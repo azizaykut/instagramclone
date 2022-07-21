@@ -31,7 +31,7 @@
 ## License
 
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `https://github.com/azizaykut/instagramclone/blob/main/LICENSE` for more information.
 
 
 ## Contact
