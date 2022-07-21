@@ -40,7 +40,8 @@ Distributed under the MIT License. See  <a href="https://github.com/azizaykut/in
 
 Your Name : azizaykut63@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/azizaykut/instagramclone]
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
