@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="[img/Instagram-clone.gif](https://github.com/azizaykut/instagramclone/blob/main/instagramclone/img/Instagram-clone.gif)" alt="Logo">
+    <img src="https://github.com/azizaykut/instagramclone/blob/main/instagramclone/img/Instagram-clone.gif" alt="Logo">
   </a>
 
 </div>
@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="[img/ınstass.jpg](https://github.com/azizaykut/instagramclone/blob/main/instagramclone/img/%C4%B1nstass.jpg)" alt="ss" >
+    <img src="https://github.com/azizaykut/instagramclone/blob/main/instagramclone/img/%C4%B1nstass.jpg" alt="ss" >
   </a>
 </div>
 
@@ -31,7 +31,9 @@
 ## License
 
 
-Distributed under the MIT License. See `https://github.com/azizaykut/instagramclone/blob/main/LICENSE` for more information.
+Distributed under the MIT License. See  <a href="https://github.com/azizaykut/instagramclone/blob/main/LICENSE">
+'LICENSE'
+  </a>  for more information.
 
 
 ## Contact
